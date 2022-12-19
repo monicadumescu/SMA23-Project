@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694305031528",
+    "project_id": "agentie-imobiliara-50004",
+    "storage_bucket": "agentie-imobiliara-50004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694305031528:android:1d0c564e623f1386c4c2dd",
+        "android_client_info": {
+          "package_name": "com.example.agentie_imobiliara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694305031528-drko6qlgfmk3e2jq23uunfmpm4smvm0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPsyu7DqOjOsXgqNQh_-I6_rp2vJ7TBWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694305031528-drko6qlgfmk3e2jq23uunfmpm4smvm0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

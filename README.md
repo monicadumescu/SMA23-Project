@@ -1,2 +1,1 @@
-# SMA23-Project
-SMA project
+# Agentie_Imobiliara_SMA

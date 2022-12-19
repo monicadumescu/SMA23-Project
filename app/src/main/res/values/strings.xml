@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Agentie_Imobiliara</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_houses">Houses</string>
+    <string name="menu_yourHouses">Your Houses</string>
+    <string name="menu_lhouses">Liked Houses</string>
+    <string name="menu_bookings">Bookings</string>
+    <string name="menu_history">History</string>
+    <string name="menu_accounts">Manage Account</string>
+    <string name="menu_logout">Logout</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

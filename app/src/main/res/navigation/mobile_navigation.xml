@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.agentie_imobiliara.ui.home_page.HomePageFragment"
+        android:label="@string/menu_houses"
+        tools:layout="@layout/fragment_home_page" />
+
+    <fragment
+        android:id="@+id/nav_yourHouses"
+        android:name="com.example.agentie_imobiliara.ui.yourHouses.YourHousesFragment"
+        android:label="@string/menu_yourHouses"
+        tools:layout="@layout/fragment_your_houses" />
+
+    <fragment
+        android:id="@+id/liked_houses"
+        android:name="com.example.agentie_imobiliara.ui.likedHouses.LikedHousesFragment"
+        android:label="@string/menu_lhouses"
+        tools:layout="@layout/fragment_liked_houses" />
+
+    <fragment
+        android:id="@+id/bookings"
+        android:name="com.example.agentie_imobiliara.ui.bookings.BookingsFragment"
+        android:label="@string/menu_bookings"
+        tools:layout="@layout/fragment_bookings" />
+
+    <fragment
+        android:id="@+id/boiking_history"
+        android:name="com.example.agentie_imobiliara.ui.bookingsHistory.BookingsHistoryFragment"
+        android:label="@string/menu_history"
+        tools:layout="@layout/fragment_bookings_history" />
+
+    <fragment
+        android:id="@+id/account"
+        android:name="com.example.agentie_imobiliara.ui.account.AccountFragment"
+        android:label="@string/menu_accounts"
+        tools:layout="@layout/fragment_account" />
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="com.example.agentie_imobiliara.ui.logout.LogoutFragment"
+        android:label="@string/menu_logout"
+        tools:layout="@layout/fragment_logout" />
+
+</navigation>
