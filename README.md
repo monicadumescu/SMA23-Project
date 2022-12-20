@@ -17,4 +17,4 @@ An user can also add houses for sale providin its properties such as address, si
 As a house owner, the user can accept or decline a booking for his house.<br />
 The app also sends campaign notifications every day.<br />
 
-The originall project can be found [here]( https://github.com/monicadumescu/Agentie_Imobiliara_SMA).
+The original project can be found [here]( https://github.com/monicadumescu/Agentie_Imobiliara_SMA).
